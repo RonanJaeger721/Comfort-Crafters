@@ -281,8 +281,9 @@ p {
 }
 
 h1 {
+  max-width: 7.2ch;
   margin: 0;
-  font-size: clamp(3rem, 7vw, 5.8rem);
+  font-size: clamp(3rem, 5.8vw, 4.85rem);
   font-weight: 600;
   line-height: 0.95;
   letter-spacing: 0;
