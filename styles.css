@@ -259,7 +259,7 @@ i[data-lucide="quote"]::before {
   z-index: 4;
   left: clamp(4.2rem, 13vw, 10rem);
   bottom: clamp(4rem, 13vw, 9rem);
-  width: min(33rem, 48%);
+  width: min(29rem, 40%);
   color: white;
 }
 
@@ -290,7 +290,7 @@ h1 {
 }
 
 .hero-copy p:not(.eyebrow) {
-  max-width: 31rem;
+  max-width: 22rem;
   margin: 1.25rem 0 0;
   color: rgba(255, 255, 255, 0.84);
   font-size: 0.92rem;
